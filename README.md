@@ -1,6 +1,5 @@
 # DSAA5002_Project by Yuan CHEN
-# Project structure
-|-- DSAA5002_Project_by_YuanCHEN
+## Project structure
     |-- README.txt
     |-- Answer
         |-- Task1-answer
